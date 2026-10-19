@@ -1,0 +1,5 @@
+//<'DayzEditorInventoryConfig.pbo' properties via Mikero's dos tools, dll version 10.13>
+Mikero=DePbo.dll.10.13;
+version=26081913;
+//PboType=Arma Addon without prefix (pboname assumed);
+//</properties>
